@@ -108,10 +108,17 @@ A Flutter application for measuring vehicle acceleration performance through spe
 
 ---
 
+## 🌐 Portfolio
+
+**[View My Flutter Portfolio](https://naqeeb-butt.web.app/)**
+
+---
+
 ## 📫 Contact
 
 - **Email:** naqibbutt610@gmail.com
 - **GitHub:** [github.com/butt197](https://github.com/butt197)
+- **Portfolio:** [naqeeb-butt.web.app](https://naqeeb-butt.web.app/)
 - **Location:** Rawalpindi, Pakistan
 - **Open to:** Remote Flutter / Mobile App Development opportunities
 

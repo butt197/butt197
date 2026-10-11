@@ -97,12 +97,6 @@ A Flutter application for measuring vehicle acceleration performance through spe
 
 ---
 
-## 🌐 Portfolio
-
-**[View My Flutter Portfolio](https://naqeeb-butt.web.app/)**
-
----
-
 ## 📫 Contact
 
 - **Email:** naqibbutt610@gmail.com

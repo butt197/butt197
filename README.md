@@ -95,6 +95,17 @@ A Flutter application for measuring vehicle acceleration performance through spe
 - **Learnify** — Early-learning application for children
 - **Grocery Billing** — Flutter desktop billing and item-management application
 
+> These are client/private projects. This profile intentionally shows project summaries and technologies only; proprietary source code, credentials, private endpoints, and client assets are not published.
+
+---
+
+## 🔒 Client Project Source Policy
+
+- Client source code stays **private**.
+- Public GitHub content is limited to profile information, project summaries, and safe technical samples.
+- No client credentials, API secrets, private endpoints, or proprietary assets are published.
+- Where source sharing is permitted later, only sanitized/non-confidential samples should be exposed.
+
 ---
 
 ## 📫 Contact
